@@ -6,6 +6,16 @@ Code accompanying the paper:
 ](https://arxiv.org/abs/2508.06085)  
 > (Version of Record will appear in Springer LNCS; DOI to be added upon publication)
 
+### Environment
 
-### TODO.
-- add requirements.txt
+This code has been tested with the following environment:
+```
+Python 3.12
+
+numpy==2.3.5
+scipy==1.16.3
+matplotlib==3.10.7
+PyWavelets==1.9.0
+torch==2.2.2
+torchviz==0.0.3
+```
